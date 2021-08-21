@@ -1,0 +1,16 @@
+{
+  "name": "com.sliddes.testrepo",
+  "version": "1.0.0",
+  "displayName": "SLIDDES TestRepo",
+  "description": "For testing purposes",
+  "keywords": [
+    "sliddes",
+    "mrsliddes"
+  ],
+  "author": {
+    "name": "SLIDDES",
+    "email": "support@sliddes.com",
+    "url": "https://www.sliddes.com"
+  },
+  "type": "tool"
+}
